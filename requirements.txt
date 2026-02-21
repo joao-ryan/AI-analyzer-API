@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+scikit-learn
+nltk
+pdfplumber
+pytest
+python-json-logger
+python-dotenv
